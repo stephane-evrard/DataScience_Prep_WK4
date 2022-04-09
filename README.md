@@ -1,13 +1,13 @@
 # DataScience Prep Week 4
 
 ## Authors
-* **Stephane Evrard Ded Gozzo**
+* ***Stephane Evrard Ded Gozzo***
 
 ## Project setup instructions
 
 ### *To start using this project use the following commands:*
 * git clone https://github.com/stephane-evrard/DataScience_Prep_WK4.git
-* cd Moringa_DataScience_Prep_WK4_IP#
+* cd Moringa_DataScience_Prep_WK4_IP
 * code .
 
 ## License info
